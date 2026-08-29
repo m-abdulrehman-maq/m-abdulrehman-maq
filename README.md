@@ -49,14 +49,12 @@ const abdulRehman = {
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,react,tauri,nodejs,flask,digitalocean,mysql,sqlite,supabase,opencv,git,github&theme=dark&perline=9)](https://skillicons.dev)
+[![Skills Row 1](https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,react,tauri,nodejs,flask&theme=dark&perline=10)](https://skillicons.dev)
 
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&style=for-the-badge)](https://numpy.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org)
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.com)
+[![Skills Row 2](https://skillicons.dev/icons?i=digitalocean,mysql,sqlite,supabase,opencv,git,github,numpy,pandas,canva&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
+
 
 ---
 
