@@ -50,14 +50,13 @@ const abdulRehman = {
 
 ---
 
-### ✍️ Dev Quote
+## 🧑‍💻 Dev Quote
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
