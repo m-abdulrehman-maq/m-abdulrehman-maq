@@ -42,4 +42,23 @@ const abdulRehman = {
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e3a5f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abdul-rehman-maqsood/)
+[![Gmail](https://img.shields.io/badge/Gmail-1e3a5f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.abdulrehman.maqsood@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a5f&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
