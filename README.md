@@ -57,6 +57,9 @@ const abdulRehman = {
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
