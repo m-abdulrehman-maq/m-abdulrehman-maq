@@ -1,18 +1,148 @@
-# 💫 About Me:
-🎓 Computer Engineering student from UET Lahore, Pakistan 🇵🇰<br>💻 Passionate about building real-world software — web, mobile & desktop<br>🌱 Always exploring new technologies and leveling up my skills<br>🛠️ I love turning ideas into clean, functional products<br>🤝 Open to collaborating on interesting projects<br>📬 Let's connect and build something awesome together!
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a5f&height=200&section=header&text=Abdul%20Rehman%20Maqsood&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Software%20Developer&descAlignY=55&descFontSize=16&descFontColor=a8c7f0" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/m-abdul-rehman-maqsood/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.abdulrehman.maqsood@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=m-abdulrehman-maq&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=m-abdulrehman-maq&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=m-abdulrehman-maq&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1e3a5f&center=true&vCenter=true&width=600&lines=Building+real-world+software+%F0%9F%9A%80;Full-stack+%7C+Desktop+%7C+CV+apps;Python+%7C+JavaScript+%7C+C%2B%2B+developer;Always+learning%2C+always+shipping+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://komarev.com/ghpvc/?username=m-abdulrehman-maqsood&color=1e3a5f&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/m-abdulrehman-maqsood?style=for-the-badge&color=1e3a5f&labelColor=0d1117&label=FOLLOWERS)
+
+</div>
+
+---
+
+## 🧠 Who I Am
+
+```typescript
+const abdulRehman = {
+  title:           "Computer Engineering Student",
+  location:        "Lahore, Pakistan 🇵🇰",
+  stack: {
+    languages:     ["Python", "JavaScript", "C++", "C#", "Java", "AssemblyScript"],
+    frontend:      ["React", "HTML5"],
+    backend:       ["Node.js", "Flask"],
+    databases:     ["MySQL", "SQLite", "Supabase"],
+    cloud:         ["DigitalOcean"],
+    ai_cv:         ["OpenCV", "NumPy", "Pandas", "Matplotlib"],
+    tools:         ["Git", "GitHub", "Tauri", "Canva"],
+  },
+  featuredProjects: ["paperbot", "wastevision-analytics"],
+  status:          "Open to collaborating on interesting projects 🤝",
+  openTo:          ["Open Source", "Freelance", "Research Projects"],
+};
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 📄 paperbot
+
+[![paperbot](https://github-readme-stats.vercel.app/api/pin/?username=m-abdulrehman-maqsood&repo=paperbot&theme=nord&border_color=1e3a5f&title_color=a8c7f0&icon_color=1e3a5f)](https://github.com/m-abdulrehman-maqsood/paperbot)
+
+| Layer | Technology |
+|-------|------------|
+| Language | Python |
+| Tools | Git, GitHub |
+
+[![Code](https://img.shields.io/badge/Code-1e3a5f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-abdulrehman-maqsood/paperbot)
+
+---
+
+### 🗑️ wastevision-analytics
+
+[![wastevision-analytics](https://github-readme-stats.vercel.app/api/pin/?username=m-abdulrehman-maqsood&repo=wastevision-analytics&theme=nord&border_color=1e3a5f&title_color=a8c7f0&icon_color=1e3a5f)](https://github.com/m-abdulrehman-maqsood/wastevision-analytics)
+
+| Layer | Technology |
+|-------|------------|
+| Vision / AI | OpenCV, NumPy |
+| Data | Pandas, Matplotlib |
+| Language | Python |
+| Tools | Git, GitHub |
+
+[![Code](https://img.shields.io/badge/Code-1e3a5f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-abdulrehman-maqsood/wastevision-analytics)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,cs,js,html&theme=dark)](https://skillicons.dev)
+
+**Frontend & Desktop**
+
+[![My Skills](https://skillicons.dev/icons?i=react,tauri&theme=dark)](https://skillicons.dev)
+
+**Backend & Infra**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,flask,digitalocean&theme=dark)](https://skillicons.dev)
+
+**Databases**
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,supabase&theme=dark)](https://skillicons.dev)
+
+**AI / Data Science**
+
+[![My Skills](https://skillicons.dev/icons?i=opencv&theme=dark)](https://skillicons.dev)
+`NumPy` · `Pandas` · `Matplotlib`
+
+**Dev Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=m-abdulrehman-maqsood&show_icons=true&theme=nord&border_color=1e3a5f&title_color=a8c7f0&icon_color=1e3a5f&text_color=ffffff&bg_color=0d1117" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-abdulrehman-maqsood&layout=compact&theme=nord&border_color=1e3a5f&title_color=a8c7f0&text_color=ffffff&bg_color=0d1117" height="180"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=m-abdulrehman-maqsood&theme=nord&border=1e3a5f&ring=1e3a5f&fire=a8c7f0&currStreakLabel=a8c7f0)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=m-abdulrehman-maqsood&theme=nord&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+[![Abdul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m-abdulrehman-maqsood&theme=nord&color=a8c7f0&line=1e3a5f&point=ffffff&bg_color=0d1117&border_color=1e3a5f)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e3a5f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abdul-rehman-maqsood/)
+[![Gmail](https://img.shields.io/badge/Gmail-1e3a5f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.abdulrehman.maqsood@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a5f&height=120&section=footer&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+</div>
