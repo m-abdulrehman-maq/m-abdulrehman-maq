@@ -45,7 +45,6 @@ const abdulRehman = {
 </div>
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
