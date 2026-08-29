@@ -50,11 +50,9 @@ const abdulRehman = {
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,react,tauri,nodejs&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,react,tauri,nodejs,flask,digitalocean,mysql,sqlite,supabase,opencv,git,github&theme=dark&perline=9)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=flask,digitalocean,mysql,sqlite,supabase,opencv,git,github&theme=dark)](https://skillicons.dev)
-
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&style=for-the-badge)](https://numpy.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.com)
