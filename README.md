@@ -29,7 +29,13 @@ const abdulRehman = {
   openTo:          ["Open Source", "Freelance", "Research Projects"],
 };
 ```
+## 🛠️ Tech Stack
 
+<div align="center">
+
+[![Skills Row 1](https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,react,digitalocean,mysql,sqlite,supabase,opencv,git,github,tauri,nodejs,flask&theme=dark&perline=10)](https://skillicons.dev)
+
+</div>
 ---
 
 ## 🚀 Featured Projects
@@ -45,16 +51,6 @@ const abdulRehman = {
 </div>
 
 ---
-## 🛠️ Tech Stack
-
-<div align="center">
-
-[![Skills Row 1](https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,react,tauri,nodejs,flask&theme=dark&perline=10)](https://skillicons.dev)
-
-[![Skills Row 2](https://skillicons.dev/icons?i=digitalocean,mysql,sqlite,supabase,opencv,git,github,numpy,pandas,canva&theme=dark&perline=10)](https://skillicons.dev)
-
-</div>
-
 
 ---
 
