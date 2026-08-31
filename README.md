@@ -64,7 +64,7 @@ const abdulRehman = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e3a5f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abdul-rehman-maqsood/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e3a5f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abdulrehman-maq/)
 [![Gmail](https://img.shields.io/badge/Gmail-1e3a5f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.abdulrehman.maqsood@gmail.com)
 
 </div>
